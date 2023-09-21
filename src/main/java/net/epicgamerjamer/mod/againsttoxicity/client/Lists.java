@@ -61,7 +61,6 @@ public class Lists {
     };
 
     public static final String[] SlurList = {
-            "autis",
             "beaner",
             "blackie",
             "blacky",
